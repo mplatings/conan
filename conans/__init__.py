@@ -1,3 +1,4 @@
+# TEST
 # Allow conans to import ConanFile from here
 # to allow refactors
 from conans.client.build.autotools_environment import AutoToolsBuildEnvironment
